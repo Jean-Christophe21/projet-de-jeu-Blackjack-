@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 I.Explication du jeu 
 But du jeu :
 Le but du Blackjack est d'obtenir un total de points aussi proche que possible de 21 sans le dépasser. Si le total des points du joueur dépasse 21, il perd la partie. Le joueur joue contre le croupier (la maison), et le gagnant est celui qui obtient un total de points plus élevé sans dépasser 21.
